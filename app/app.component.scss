@@ -1,0 +1,20 @@
+.app {
+  color: green;
+  font-size: 30px;
+}
+
+nav {
+  margin-bottom: 20px;
+
+  a {
+    padding: 20px 20px;
+    background-color: pink;
+    display: inline-block;
+    margin-right: 10px;
+
+    &.active {
+      color: blue;
+      font-weight: 500;
+    }
+  }
+}

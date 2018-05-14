@@ -1,0 +1,28 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "name": "Van Djik",
+      "position": "central back",
+      "number": 5,
+      "isAvailable": true,
+      "level": "senior"
+    },
+    {
+      "id": 1,
+      "name": "Henderson",
+      "position": "middlefield",
+      "number": 14,
+      "isAvailable": false,
+      "level": "senior"
+    },
+    {
+      "id": 2,
+      "name": "Salah",
+      "position": "Striker",
+      "number": 11,
+      "isAvailable": true,
+      "level": "senior"
+    }
+  ]
+}
